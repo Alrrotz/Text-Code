@@ -1,0 +1,1 @@
+<stroke color="#000000" thickness="3"><font size="20"><font color="#FFA500"><font face="YOURFONTHERE">YOURTEXTHERE</font></font></font></stroke>
